@@ -1,0 +1,16 @@
+.logo-style {
+    padding: 10px 25px 10px 25px;
+    background-color: rgb(91, 155, 213);
+    border: 1px rgb(46, 116, 180) solid;
+    color: white;
+}
+
+.nav-bar {
+    float: right;
+}
+
+.nav-item {
+    margin: 7px;
+    font-size: 11px;
+    font-weight: bold;
+}
